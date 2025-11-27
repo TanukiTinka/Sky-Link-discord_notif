@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Hlaní Web",
+    "url": "https://ops.skyairlines.online",
+    "expectedStatus": 200
+  },
+  {
+    "name": "Databáze",
+    "url": "https://myadmin.skyairlines.online",
+    "expectedStatus": 200
+  },
+  {
+    "name": "Staff Web",
+    "url": "https://staff.skyairlines.online",
+    "expectedStatus": 200
+  }
+]
